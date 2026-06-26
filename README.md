@@ -1,4 +1,4 @@
-Academia Fullstack Java — Semana 1 — Ejercicios Prácticos
+Academia Fullstack Java — Ejercicios Prácticos
 
 Autora: Brenda Abril Castañeda Fernández.
 
